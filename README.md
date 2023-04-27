@@ -3,6 +3,7 @@
 <br>
 
 <h1 align="center">Hi 👏🏽, I'm Matheus Balestreiro</h1>
+<br>
 <h3 align="center">Desenvolvedor Front-end <br> Focado em aprimorar o conhecimento em React.js | Next.js | Typescript| Tailwindcss.</h3>
 
 <br>
