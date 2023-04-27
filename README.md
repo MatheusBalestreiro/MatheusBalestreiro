@@ -2,7 +2,7 @@
  
 <br>
 
-<h1 align="center">Hi 👏🏽, I'm Savio Lopes</h1>
+<h1 align="center">Hi 👏🏽, I'm Matheus Balestreiro</h1>
 <h3 align="center">Desenvolvedor Front-end React.js | Next.js | Typescript | Tailwindcss. </h3>
 
 <br>
