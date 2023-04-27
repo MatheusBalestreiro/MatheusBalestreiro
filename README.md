@@ -1,11 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=79c0ff&height=120&section=header"/>
  
-<div align="center"> 
-  <a href="https://github.com/MatheusBalestreiro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusBalestreiro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusBalestreiro&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-  
 <div align="center" style="display: inline_block"><br>
    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -15,11 +9,20 @@
    <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div><br>
   
- 
 <div align="center"> 
   <a href="https://www.linkedin.com/in/matheusbalestreiro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/_matheusbalestreiro/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%230077B5?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+</div>  
+ 
+<div align="center"> 
+  <a href="https://github.com/MatheusBalestreiro">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusBalestreiro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusBalestreiro&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+  
+
+ 
+
 
  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MatheusBalestreiro&bg_color=EE82EE9&color=79c0ff&line=79c0ff&point=5D5E61&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
