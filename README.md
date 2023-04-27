@@ -5,8 +5,8 @@
 ##
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=arturcarvalho0&show_icons=true&count_private=true&hide_border=true&title_color=54B4D3&icon_color=54B4D3&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Balestreiro github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arturcarvalho0&layout=compact&hide_border=true&title_color=54B4D3&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MatheusBalestreiro&show_icons=true&count_private=true&hide_border=true&title_color=54B4D3&icon_color=54B4D3&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Balestreiro github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusBalestreiro&layout=compact&hide_border=true&title_color=54B4D3&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 ##
