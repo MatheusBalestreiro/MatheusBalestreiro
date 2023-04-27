@@ -21,12 +21,12 @@
   <a href="https://www.instagram.com/_matheusbalestreiro/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%230077B5?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
 </div>
 
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MatheusBalestreiro&bg_color=EE82EE9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MatheusBalestreiro&bg_color=79c0ff&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MatheusBalestreiro&theme=dracula&row=1&no-bg=true&column=6&margin-w=15&margin-h=15" />
 </p>
 
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EE82EE&height=120&section=footer"/>
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=79c0ff&height=120&section=footer"/>
 </div>
