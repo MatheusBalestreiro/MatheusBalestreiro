@@ -13,6 +13,8 @@
   <a href="https://www.linkedin.com/in/matheusbalestreiro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/_matheusbalestreiro/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%230077B5?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
 </div>  
+
+<br>
  
 <div align="center"> 
   <a href="https://github.com/MatheusBalestreiro">
@@ -20,10 +22,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusBalestreiro&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
-
- 
-
-
  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MatheusBalestreiro&bg_color=EE82EE9&color=79c0ff&line=79c0ff&point=5D5E61&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
