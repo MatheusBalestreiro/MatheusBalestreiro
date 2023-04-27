@@ -21,7 +21,7 @@
   <a href="https://www.instagram.com/_matheusbalestreiro/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%230077B5?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
 </div>
 
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MatheusBalestreiro&bg_color=EE82EE9&color=79c0ff&line=9e4c98&point=79c0ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MatheusBalestreiro&bg_color=EE82EE9&color=79c0ff&line=79c0ff&point=9e4c98&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <p align="center">
