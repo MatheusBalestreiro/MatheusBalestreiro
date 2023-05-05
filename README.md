@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=79c0ff&height=120&section=header"/>
 <h1 align="center">Hello World 🌍 <br> Hi 👏🏽, I'm Matheus Balestreiro</h1>
 <br>
-<h3 align="center">Desenvolvedor Front-end <br>React.js | Next.js | Typescript| Tailwindcss</h3>
+<h3 align="center">Desenvolvedor Front-end <br>React.js | Next.js | Typescript | Tailwindcss</h3>
 
 <br>
 
