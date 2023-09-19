@@ -27,7 +27,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusBalestreiro&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
-(https://github-readme-activity-graph.cyclic.app/graph?username=MatheusBalestreiro&bg_color=EE82EE9&color=79c0ff&line=79c0ff&point=5D5E61&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<hr>
 
 
 <p align="center">
