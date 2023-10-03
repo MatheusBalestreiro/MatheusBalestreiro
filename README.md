@@ -4,7 +4,7 @@
 <br>
 <h3 align="center">Desenvolvedor Front-end <br>React.js | Next.js | Typescript | Tailwindcss</h3>
   <div align="center" >
-<a href="https://skillicons.dev"   >
+<a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,react,next,tailwind,github,postman,vite,bootstrap,mongodb,postgres" />
 </a>
   <br />
@@ -17,7 +17,7 @@
 
 <br>
 
-  ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+  ![yoshi389111/github-profile-3d-contrib](https://github.com/MatheusBalestreiro/github-profile-3d-contrib)
   
  | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MatheusBalestreiro&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MatheusBalestreiro&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
  | ----------- | ----------- |
