@@ -1,8 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=79c0ff&height=120&section=header"/>
-<h1 align="center">Hello World 🌍 <br> Hi 👏🏽, I'm Matheus Balestreiro</h1>
-<h3 align="center">Desenvolvedor Front-end <br>React.js | Next.js | Typescript | Tailwindcss</h3>
-<br>
+<h2 align="center">Hello World 🌍 <br> Hi 👏🏽, I'm Matheus Balestreiro</h2>
 
+<br>
+<h3 align="center">Desenvolvedor Front-end <br>React.js | Next.js | Typescript | Tailwindcss</h3>
   <div align="center" >
 <a href="https://skillicons.dev"   >
   <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,react,next,tailwind,github,postman,vite,bootstrap,mongodb,postgres" />
