@@ -7,7 +7,10 @@
   <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,react,next,tailwind,github,postman,vite,bootstrap,mongodb,postgres" />
 </a>
   <br />
-
+  <h4>Contato:</h4>
+    <a href="https://skillicons.dev"   >
+  <img src="https://skillicons.dev/icons?i=discord,linkedin,instagram" />
+</a>
   </div>
   
 <div align="center"> 
