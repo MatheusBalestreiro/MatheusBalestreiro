@@ -7,15 +7,11 @@
   <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,react,next,tailwind,github,postman,vite,bootstrap,mongodb,postgres" />
 </a>
   <br />
-  <h4>Contato:</h4>
-    <a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=discord,linkedin,instagram" />
-</a>
   </div>
   
 <div align="center"> 
-  <a href="https://www.linkedin.com/in/matheusbalestreiro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.instagram.com/_matheusbalestreiro/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%230077B5?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/matheusbalestreiro" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" target="_blank"/></a> 
+  <a href="https://www.instagram.com/_matheusbalestreiro/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" target="_blank"/></a> 
 </div>  
 
 <br>
