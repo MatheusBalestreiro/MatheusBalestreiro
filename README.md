@@ -21,11 +21,6 @@
  | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MatheusBalestreiro&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MatheusBalestreiro&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
  | ----------- | ----------- |
 
-
-
-  
-<hr>
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MatheusBalestreiro&theme=discord&row=1&no-bg=true&column=4&margin-w=15&margin-h=15" />
 </p>
