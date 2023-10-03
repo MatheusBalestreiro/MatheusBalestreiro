@@ -16,6 +16,8 @@
   <a href="https://www.instagram.com/_matheusbalestreiro/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%230077B5?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
 </div>  
 
+<br>
+
   ![Status](./profile-3d-contrib/profile-night-green.svg)
   
  | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MatheusBalestreiro&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MatheusBalestreiro&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
