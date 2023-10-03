@@ -2,8 +2,6 @@
 <h1 align="center">Hello World 🌍 <br> Hi 👏🏽, I'm Matheus Balestreiro</h1>
 <br>
 <h3 align="center">Desenvolvedor Front-end <br>React.js | Next.js | Typescript | Tailwindcss</h3>
-
-<br>
 <div align="center" style="display: inline_block"><br>
    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
