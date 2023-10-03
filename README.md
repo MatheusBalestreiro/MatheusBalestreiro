@@ -13,6 +13,7 @@
 <div align="center"> 
   <a href="https://www.linkedin.com/in/matheusbalestreiro" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" target="_blank"/></a> 
   <a href="https://www.instagram.com/_matheusbalestreiro/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" target="_blank"/></a> 
+  <a href="https://www.instagram.com/_matheusbalestreiro/" target="_blank"><img src="https://skillicons.dev/icons?i=discord" target="_blank"/></a> 
 </div>  
 
 <br>
