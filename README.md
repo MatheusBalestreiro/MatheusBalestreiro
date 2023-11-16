@@ -8,7 +8,7 @@
 <h2 align="center">🚀 Tecnologias</h2>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,react,next,tailwind,github,postman,vite,bootstrap,mongodb,postgres" />
+    <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,vue,react,next,tailwind,github,postman,vite,bootstrap,mongodb,postgres" />
   </a>
 </div>
 <br>
